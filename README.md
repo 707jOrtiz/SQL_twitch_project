@@ -1,5 +1,7 @@
 # Codecademy_SQL_Twitch_Project
 
-My first SQL project from Codecademy. Still learning how to use github as of right now.
+My first SQL project from Codecademy. Each query has a comment to show what I am searching for.
 
-https://www.codecademy.com/courses/dspath-twitch/articles/twitch-project
+# What I learned
+
+SQL basics.
